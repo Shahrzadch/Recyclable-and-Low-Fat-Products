@@ -1,9 +1,9 @@
 Table: Products
 
 
-product_id  int;     
-low_fats    enum;    
-recyclable  enum;   
+product_id  (int);     
+low_fats    (enum);    
+recyclable  (enum);   
 
 product_id is the primary key (column with unique values) for this table.
 low_fats is an ENUM (category) of type ('Y', 'N') where 'Y' means this product is low fat and 'N' means it is not.
