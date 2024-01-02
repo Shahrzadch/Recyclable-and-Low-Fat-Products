@@ -1,6 +1,6 @@
-**#Recyclable and Low Fat Products**
+**#Recyclable and Low Fat Products - SQL Code**
 
-SQL Code
+
 
 Table: Products
 
